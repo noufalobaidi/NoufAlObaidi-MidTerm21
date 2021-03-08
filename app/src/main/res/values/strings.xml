@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">[Nouf AlObaidi]-MidTerm21</string>
+    <string name="img">alfaisal </string>
+    <string name="imgdeer">TODO</string>
+    <string name="button1">go to activity 2</string>
+    <string name="button2">go to activity 3</string>
+    <string name="datebutton">"insert date "</string>
+    <string name="name" />
+    <string name="nametv">insert your name</string>
+
+    <string name="activity2">you are in activity 2</string>
+    <string name="button3">go to activity 1</string>
+    <string name="button4">go to activity 3</string>
+    <string name="radiobutton1">male</string>
+    <string name="radiobutton2">female</string>
+    <string name="radiobutton3">student</string>
+    <string name="radiobutton4">instructor</string>
+    <string name="done">DONE</string>
+    <string name="dateresult" />
+    <string name="imagebig">TODO</string>
+    <string name="button7">go to activity 1</string>
+    <string name="this_is_activity_3">This is activity 3</string>
+    <string name="button8">go to activity 2</string>
+</resources>
